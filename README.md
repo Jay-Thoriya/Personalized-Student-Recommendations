@@ -52,5 +52,42 @@ You will need to obtain a valid Google API key to access the chatbot functionali
 - Screenshots of key visualizations and insights are included in this repository.
 - The insights help users identify their weak areas and receive recommendations for improvement.
 
+**Analysis & Graphs**
+
+![Sample Image](https://github.com/Jay-Thoriya/Personalized-Student-Recommendations/blob/main/ui%20photos/Screenshot%202025-02-02%20122920.png)
+![Sample Image](https://github.com/Jay-Thoriya/Personalized-Student-Recommendations/blob/main/ui%20photos/Screenshot%202025-02-02%20122936.png)
+
+
+**Insights & Trends**
+
+![Sample Image](https://github.com/Jay-Thoriya/Personalized-Student-Recommendations/blob/main/ui%20photos/Screenshot%202025-02-02%20123000.png)
+
+
+
+**Recommendations**
+
+![Sample Image](https://github.com/Jay-Thoriya/Personalized-Student-Recommendations/blob/main/ui%20photos/Screenshot%202025-02-02%20123019.png)
+
+
+
+**Quiz Submission Summary**
+
+![Sample Image](https://github.com/Jay-Thoriya/Personalized-Student-Recommendations/blob/main/ui%20photos/Screenshot%202025-02-02%20123047.png)
+
+
+
+**Quiz Questions Viewer**
+
+![Sample Image](https://github.com/Jay-Thoriya/Personalized-Student-Recommendations/blob/main/ui%20photos/Screenshot%202025-02-02%20123101.png)
+
+
+
+**Personal Ai Assistant**
+
+![Sample Image](https://github.com/Jay-Thoriya/Personalized-Student-Recommendations/blob/main/ui%20photos/Screenshot%202025-02-02%20123712.png)
+
+
+
 **Chatbot Integration**:
+
 - A chatbot is included to provide personalized conversations with students, assisting them with study-related questions and offering guidance based on their performance data.
